@@ -7,15 +7,13 @@ Scene design refers to the modeling design of all objects that change with time,
 You can find more details in MyProject/QM_Works, which contains most of my work, The followings are some important sections
 
 ### Wang Zhiyuan_2018212993_FinalReport.pdf 
-This is my final essay. You can find it in [QM_Works\3. Final](MyProject/QM_Works/3. Final/Wang Zhiyuan_2018212993_FinalReport.pdf)
-
+This is my final essay. You can find it in<a href = "QM_Works/3.%20Final/Wang Zhiyuan_2018212993_FinalReport.pdf"> here </a>
 ### 0. Title_BTANJIAN1.pdf
 This is my project's title introduction. You can find it in QM_Works
 
 
 ### _UE5 FinalVersion.pptx
-This is my final presentation ppt, which contains most of the technical details. You can find it in [QM_Works/3. Final/Presentation](MyProject/QM_Works/3. Final/Presentation/Wang_Zhiyuan_2018212993_FinalViva.pdf)
- 
+This is my final presentation ppt, which contains most of the technical details. You can find it in <a href = "QM_Works/3.%20Final/Presentation/Wang_Zhiyuan_2018212993_FinalViva.pdf"> here </a>
 ### Viedo Link
 You can find my video demo in the following link.
 https://www.bilibili.com/video/BV1FY4y1t7o1/?spm_id_from=333.999.0.0&vd_source=91cfcc4850fa11589431c9dc06ced6d6
